@@ -1,4 +1,4 @@
 PyGLM == 1.99.0
 PyOpenGL == 3.1.5
 glfw == 1.11.0
-numpy == 1.18.1
+numpy == 1.22.0
